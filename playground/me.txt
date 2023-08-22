@@ -1,5 +1,0 @@
-{{#user}}
-Name: Joseph K. Saji
-Skills: HTML, CSS, Tailwind CSS, JS, React.js, Node.js
-Email: josephksaji1812@gmail.com
-{{/user}}
